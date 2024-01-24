@@ -11,8 +11,11 @@ Welcome to my digital world! I am a Full Stack Web Developer passionate about te
 * 🎸 Singer-songwriter and guitarist.
 * 🔭 I love learning new things.
 * 📫 How to reach me:
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/pasquale-ioio-973078218/)
- [![Email](https://img.shields.io/badge/Email-Contact-green?logo=email)](mailto:pasqualeioio@libero.it)
+  
+[![LinkedIn](https://img.icons8.com/ios/50/000000/linkedin-circled--v1.png)](https://www.linkedin.com/in/pasquale-ioio-973078218/)
+
+ [![Email](https://img.icons8.com/ios/50/000000/new-post.png)](mailto:tuamail@example.com)
+
 
 
 ### Skills
