@@ -12,9 +12,7 @@ Welcome to my digital world! I am a Full Stack Web Developer passionate about te
 * 🔭 I love learning new things.
 * 📫 How to reach me:
 
-[![LinkedIn](https://img.icons8.com/ios/50/0000FF/linkedin-circled--v1.png)](https://www.linkedin.com/in/pasquale-ioio-973078218/)
-
-[![Email](https://img.icons8.com/ios/50/FF0000/new-post.png)](mailto:tuamail@example.com)
+[![LinkedIn](https://img.icons8.com/ios/50/0000FF/linkedin-circled--v1.png)](https://www.linkedin.com/in/pasquale-ioio-973078218/) [![Email](https://img.icons8.com/ios/50/FF0000/new-post.png)](mailto:tuamail@example.com)
 
 
 
