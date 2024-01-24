@@ -15,14 +15,15 @@ Welcome to my digital world! I am a Full Stack Web Developer passionate about te
 
 ## Languages and Tools
 
-- HTML: ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=plastic&logo=html5&logoColor=white)
-- CSS: ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=plastic&logo=css3&logoColor=white)
-- JavaScript: ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black)
-- C#: ![C#](https://img.shields.io/badge/-C%23-239120?style=plastic&logo=c-sharp&logoColor=white)
-- Java: ![Java](https://img.shields.io/badge/-Java-007396?style=plastic&logo=java&logoColor=white)
-- Spring: ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=plastic&logo=spring&logoColor=white)
-- MySQL: ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=plastic&logo=mysql&logoColor=white)
-- Bootstrap: ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=plastic&logo=bootstrap&logoColor=white)
+- HTML: <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML" width="48"/>
+- CSS: <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="48"/>
+- JavaScript: <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="48"/>
+- C#: <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" width="48"/>
+- Java: <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="48"/>
+- Spring: <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring" width="48"/>
+- MySQL: <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="48"/>
+- Bootstrap: <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" width="48"/>
+
 
 
 
