@@ -17,10 +17,14 @@ Welcome to my digital world! I am a Full Stack Web Developer passionate about te
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/https://github.com/Dieci1" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/pasquale-ioio-973078218/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
-### Badges
 
-<b>My GitHub Stats</b>
+## Badges
 
-<a href="http://www.github.com/https://github.com/Dieci1"><img src="https://github-readme-stats.vercel.app/api?username=https://github.com/Dieci1&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="https://github.com/Dieci1's GitHub stats" /></a>
+**My GitHub Stats**
+<a href="http://www.github.com/Dieci1">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dieci1&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="GitHub stats" />
+</a>
 
-<a href="https://github.com/https://github.com/Dieci1" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Dieci1&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/Dieci1" align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dieci1&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
+</a>
