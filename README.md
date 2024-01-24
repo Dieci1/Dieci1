@@ -14,7 +14,7 @@ Welcome to my digital world! I am a Full Stack Web Developer passionate about te
    [![Email](https://img.shields.io/badge/Email-Contact-green)](mailto:pasqualeioio@libero.it)
 
 ## Languages and Tools
-
+<div>
 <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML" width="48"/>
 <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="48"/>
 <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="48"/>
@@ -23,6 +23,7 @@ Welcome to my digital world! I am a Full Stack Web Developer passionate about te
 <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring" width="48"/>
 <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="48"/>
 <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" width="48"/>
+</div>
 
 
 
