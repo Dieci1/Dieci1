@@ -15,14 +15,15 @@ Welcome to my digital world! I am a Full Stack Web Developer passionate about te
 
 ## Languages and Tools
 
-- HTML: ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-- CSS: ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-- JavaScript: ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-- C#: ![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-- Java: ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
-- Spring: ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-- MySQL: ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-- Bootstrap: ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+- HTML: ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=plastic&logo=html5&logoColor=white)
+- CSS: ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=plastic&logo=css3&logoColor=white)
+- JavaScript: ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black)
+- C#: ![C#](https://img.shields.io/badge/-C%23-239120?style=plastic&logo=c-sharp&logoColor=white)
+- Java: ![Java](https://img.shields.io/badge/-Java-007396?style=plastic&logo=java&logoColor=white)
+- Spring: ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=plastic&logo=spring&logoColor=white)
+- MySQL: ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=plastic&logo=mysql&logoColor=white)
+- Bootstrap: ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=plastic&logo=bootstrap&logoColor=white)
+
 
 
 
