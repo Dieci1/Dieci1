@@ -7,6 +7,13 @@ Full Stack Web Developer
 Welcome to my digital world! I am a Full Stack Web Developer passionate about technology and more...
 
 * 🌍  I'm based in Naples, Italy
+* 👀 I'm interested in video games, TV series, sports, and writing music.
+* 🎸 Singer-songwriter and guitarist.
+* 🔭 I love learning new things.
+* 📫 How to reach me:
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/pasquale-ioio-973078218/)
+ [![Email](https://img.shields.io/badge/Email-Contact-green?logo=email)](mailto:pasqualeioio@libero.it)
+
 
 ### Skills
 
