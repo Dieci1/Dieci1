@@ -23,7 +23,7 @@ Welcome to my digital world! I am a Full Stack Web Developer passionate about te
 </p>
 
 
-# My Front-End projects
+### My Front-End projects
 
 [![Starbucks](https://dieci1.github.io/Starbucks/starbucks-icon.png)](https://dieci1.github.io/Starbucks/)
 
