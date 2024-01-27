@@ -33,7 +33,11 @@ Welcome to my digital world! I am a Full Stack Web Developer passionate about te
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/https://github.com/Dieci1" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/pasquale-ioio-973078218/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
-
+ <!-- Aggiungi qui l'immagine personalizzata di Starbucks -->
+  <a href="https://dieci1.github.io/Starbucks/" target="_blank" rel="noreferrer">
+    <img src="(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cleanpng.com%2Fpng-starbucks-logo-portable-network-graphics-image-cof-7232372%2F&psig=AOvVaw2l1B8C24-03HicwsfA6jix&ust=1706446702379000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLCD1rrQ_YMDFQAAAAAdAAAAABAE)" width="32" height="32" />
+  </a>
+</p>
 
 
 ## Badges
