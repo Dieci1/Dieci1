@@ -26,7 +26,7 @@ Welcome to my digital world! I am a Full Stack Web Developer passionate about te
 ------------------------
 ### My Front-End projects
 
-<table>
+<table border="0">
   <tr>
     <td>
       <a href="https://dieci1.github.io/Starbucks/" target="_blank" rel="noreferrer">
@@ -45,7 +45,6 @@ Welcome to my digital world! I am a Full Stack Web Developer passionate about te
     </td>
   </tr>
 </table>
-
 
 
 
