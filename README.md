@@ -26,11 +26,17 @@ Welcome to my digital world! I am a Full Stack Web Developer passionate about te
 ------------------------
 ### My Front-End projects
 
-<a href="https://dieci1.github.io/Starbucks/" target="_blank" rel="noreferrer" style="margin-bottom: 20px; display: inline-block;">
-  <img src="https://dieci1.github.io/Starbucks/images/logo.png" alt="Starbucks" width="55">
-</a><br> <a href="https://dieci1.github.io/RealPhone/" target="_blank" rel="noreferrer" style="display: inline-block; margin-bottom: 30px; margin-top: -15px;">
-  <img src="https://dieci1.github.io/RealPhone/imagesphone/logo.png" alt="Realphone" width="135">
-</a>
+<span style="display: inline-block; margin-right: 20px;">
+  <a href="https://dieci1.github.io/Starbucks/" target="_blank" rel="noreferrer">
+    <img src="https://dieci1.github.io/Starbucks/images/logo.png" alt="Starbucks" width="55">
+  </a>
+</span>
+
+<span style="display: inline-block;">
+  <a href="https://dieci1.github.io/RealPhone/" target="_blank" rel="noreferrer">
+    <img src="https://dieci1.github.io/RealPhone/imagesphone/logo.png" alt="Realphone" width="135" style="margin-top: -15px;">
+  </a>
+</span>
 
 
 
