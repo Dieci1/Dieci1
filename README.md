@@ -30,8 +30,8 @@ Welcome to my digital world! I am a Full Stack Web Developer passionate about te
   <img src="https://dieci1.github.io/Starbucks/images/logo.png" alt="Starbucks" width="55">
 </a>
 
-<a href="https://dieci1.github.io/RealPhone/" target="_blank" rel="noreferrer">
-  <img src="https://dieci1.github.io/RealPhone/imagesphone/logo.png" alt="Realphone" width="135" style="display: block; margin-bottom: 20px;">
+<a href="https://dieci1.github.io/RealPhone/" target="_blank" rel="noreferrer" style="display: block; margin-bottom: 10px; margin-top: -10px;">
+  <img src="https://dieci1.github.io/RealPhone/imagesphone/logo.png" alt="Realphone" width="135">
 </a>
 
 
