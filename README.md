@@ -31,8 +31,9 @@ Welcome to my digital world! I am a Full Stack Web Developer passionate about te
 </a>
 
 <a href="https://dieci1.github.io/RealPhone/" target="_blank" rel="noreferrer">
-  <img src="https://dieci1.github.io/RealPhone/imagesphone/logo.png" alt="Realphone" width="135">
+  <img src="https://dieci1.github.io/RealPhone/imagesphone/logo.png" alt="Realphone" width="100" style="display: block;">
 </a>
+
 
 
 
