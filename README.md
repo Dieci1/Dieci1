@@ -26,9 +26,9 @@ Welcome to my digital world! I am a Full Stack Web Developer passionate about te
 ------------------------
 ### My Front-End projects
 
-- [![Starbucks](https://dieci1.github.io/Starbucks/images/logo.png)](https://dieci1.github.io/Starbucks/)
-- [![PlayStation](https://dieci1.github.io/PlayStation/Playstation_Img/logo.png)](https://dieci1.github.io/PlayStation/)
-- [![Realphone](https://dieci1.github.io/RealPhone/imagesphone/logo.png)](https://dieci1.github.io/RealPhone/)
+[![Starbucks](https://dieci1.github.io/Starbucks/images/logo.png)](https://dieci1.github.io/Starbucks/)
+[![PlayStation](https://dieci1.github.io/PlayStation/Playstation_Img/logo.png)](https://dieci1.github.io/PlayStation/)
+[![Realphone](https://dieci1.github.io/RealPhone/imagesphone/logo.png)](https://dieci1.github.io/RealPhone/)
 
 
 
