@@ -26,25 +26,19 @@ Welcome to my digital world! I am a Full Stack Web Developer passionate about te
 ------------------------
 ### My Front-End projects
 
-<table border="0">
-  <tr>
-    <td>
-      <a href="https://dieci1.github.io/Starbucks/" target="_blank" rel="noreferrer">
-        <img src="https://dieci1.github.io/Starbucks/images/logo.png" alt="Starbucks" width="55">
-      </a>
-    </td>
-    <td>
-      <a href="https://dieci1.github.io/PlayStation/" target="_blank" rel="noreferrer">
-        <img src="https://dieci1.github.io/PlayStation/Playstation_Img/logo.png" alt="PlayStation" width="55">
-      </a>
-    </td>
-    <td>
-      <a href="https://dieci1.github.io/RealPhone/" target="_blank" rel="noreferrer">
-        <img src="https://dieci1.github.io/RealPhone/imagesphone/logo.png" alt="Realphone" width="135" style="margin-top: -15px;">
-      </a>
-    </td>
-  </tr>
-</table>
+<div style="display: flex; gap: 20px;">
+  <a href="https://dieci1.github.io/Starbucks/" target="_blank" rel="noreferrer">
+    <img src="https://dieci1.github.io/Starbucks/images/logo.png" alt="Starbucks" width="55">
+  </a>
+
+  <a href="https://dieci1.github.io/PlayStation/" target="_blank" rel="noreferrer">
+    <img src="https://dieci1.github.io/PlayStation/Playstation_Img/logo.png" alt="PlayStation" width="55">
+  </a>
+
+  <a href="https://dieci1.github.io/RealPhone/" target="_blank" rel="noreferrer" style="margin-top: -15px;">
+    <img src="https://dieci1.github.io/RealPhone/imagesphone/logo.png" alt="Realphone" width="135">
+  </a>
+</div>
 
 
 
